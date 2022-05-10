@@ -1,0 +1,21 @@
+[
+  {
+    "name": "alv_game",
+    "master": true,
+    "password_hash": "$2a$11$OLkX9g5oqpxoVIHeOYET7..9fS/V9ceOxkjh64HMHg7VykSK9MIq6",
+    "providers": {
+      "citizenfx": {
+        "id": "alv_game",
+        "identifier": "fivem:6242901",
+        "data": {
+          "sub": "514ca8da13fa6379378088bd55f5a84f",
+          "nameid": "https://forum.cfx.re/internal/user/6242901",
+          "name": "alv_game",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/alv_game/256/2361697_2.png",
+          "profile": "https://forum.cfx.re/u/alv_game"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
